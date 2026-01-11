@@ -10,10 +10,10 @@ export async function GET() {
     if (!company) {
       // Return default if no company exists
       return NextResponse.json({
-        name: 'AIBILL RADIUS',
-        email: 'admin@aibill.com',
-        phone: '+62 812-3456-7890',
-        address: 'Jakarta, Indonesia',
+        name: 'MWAKIDENIS-BILLING RADIUS',
+        email: 'mwakidenis50@gmail.com',
+        phone: '+254 798-750-585',
+        address: 'Nairobi, Kenya',
         baseUrl: 'http://localhost:3000',
         adminPhone: '+62 812-3456-7890',
         logo: null,
